@@ -1,6 +1,3 @@
-from pathlib import Path
-
-readme = r'''# Modeling and Optimization of a Dielectric–Conductor Triboelectric Nanogenerator for Self-Powered Footstep Detection
 
 ## Overview
 
@@ -354,6 +351,3 @@ The complete project bibliography is available in [`References/references.md`](R
 **Indian Institute of Technology Indore**
 '''
 
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"[Download the README.md](sandbox:{path})")
