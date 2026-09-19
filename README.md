@@ -37,5 +37,46 @@ Full-Wave Rectifier (FWR)
 Load Resistance Optimization
         ↓
 Application Study
-        ↓
+
+---
+
+## Model Validation
+
+### Infinite Parallel-Plate Benchmark
+
+The initial TENG model was developed based on the theoretical framework reported by **Niu et al.** and implemented in MATLAB/Simulink to reproduce the reported analytical benchmark.
+
+The model was evaluated for:
+
+- Open-circuit voltage
+- Transferred charge
+
+The corresponding validation results are available in:
+
+`Results/Validation/`
+
+### Dielectric–Conductor Model
+
+The dielectric–conductor model was implemented using the theoretical framework reported by **Dharmasena et al.**
+
+The model was validated by comparing the simulated results with the corresponding theoretical results for:
+
+- Transferred charge
+- Short-circuit current
+
+The validation results are available in:
+
+`Results/Validation/`
+
+### Validation Results
+
+The repository contains the following validation plots:
+
+- `Niu_Validation_Charge.png`
+- `Niu_Validation_Voltage.png`
+- `DDEF_Validation_Charge.png`
+- `DDEF_Validation_Isc.png`
+
+
+
 Self-Powered Footstep Detection
