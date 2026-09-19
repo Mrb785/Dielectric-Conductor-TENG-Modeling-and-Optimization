@@ -149,7 +149,7 @@ The directory contains:
 - [`Nylon/`](Results/Material%20Comparison/Nylon/)
 - [`Kapton/`](Results/Material%20Comparison/Kapton/)
 - [`PVC/`](Results/Material%20Comparison/PVC/)
-- [`Power comparison.png`](Results/Material%20Comparison/Power_%20comparison.png)
+- [`Power comparison.png`](Results/Material%20Comparison/Power%20_comparison.png)
 - [`V_OC comparison.png`](Results/Material%20Comparison/V_OC%20comparison.png)
 
 ---
