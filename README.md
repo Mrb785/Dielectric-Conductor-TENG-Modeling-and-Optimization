@@ -254,7 +254,7 @@ Representative Simulink files currently included in the repository are:
 
 | Model | Description |
 |---|---|
-| [`DDEF_Nylon.slx`](Simulink/DDEF_Nylon.slx) | Dielectric–conductor TENG model using Nylon parameters |
+| [`DDEF_NYLON.slx`](Simulink/DDEF_NYLON.slx) | Dielectric–conductor TENG model using Nylon parameters |
 | [`DDEF_Nylon_fwr.slx`](Simulink/DDEF_Nylon_fwr.slx) | Dielectric–conductor TENG model with full-wave rectifier using Nylon parameters |
 | [`TENG_niu_validation.slx`](Simulink/TENG_niu_validation.slx) | Infinite parallel-plate TENG validation model based on the Niu theoretical framework |
 
@@ -292,7 +292,7 @@ Dielectric-Conductor-TENG-Modeling-and-Optimization/
 │       └── Load_optimization.png
 │
 └── Simulink/
-    ├── DDEF_KAPTON.slx
+    ├── DDEF_NYLON.slx
     ├── DDEF_Nylon_fwr.slx
     └── TENG_niu_validation.slx
 ```
